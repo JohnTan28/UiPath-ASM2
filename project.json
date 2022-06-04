@@ -1,0 +1,82 @@
+{
+  "name": "ASM2_New",
+  "description": "ASM2",
+  "main": "Main.xaml",
+  "dependencies": {
+    "ActivitiesSendOutlookMeeting": "[1.0.5]",
+    "DataTable.Activities": "[1.0.0]",
+    "DataTableColumnOperationsPack.Activities": "[1.0.0]",
+    "DataTableManipulation.Activities": "[1.1.0]",
+    "DataTablePlugins.Activities": "[1.1.5]",
+    "DatatableToHtmlDatatable.Activities": "[1.0.3]",
+    "Outlook.Mail.Activities": "[1.0.2]",
+    "System.Data.DataSetExtensions": "[4.6.0-preview3.19128.7]",
+    "UiPath.Excel.Activities": "[2.12.0-preview]",
+    "UiPath.Form.Activities": "[1.9.1]",
+    "UiPath.FormActivityLibrary": "[1.9.2]",
+    "UiPath.Mail.Activities": "[1.13.1-preview]",
+    "UiPath.System.Activities": "[22.2.0-preview]",
+    "UiPath.UIAutomation.Activities": "[22.2.0-preview]",
+    "UiPath.WebAPI.Activities": "[1.10.1-preview]",
+    "UiPathTeam.DatatablesComparison.Activities": "[2.0.0]",
+    "UiPathTeam.DatatableSetOrdinal.Activities": "[1.0.3]",
+    "UiPathTeam.Excel.Extensions.Activities": "[1.0.7107.42453]",
+    "UiPathTeam.ExtractTablesFromMail.Activities": "[1.0.0]",
+    "UiPathTeam.HTMLActivities": "[2.0.0]",
+    "UiPathTeam.JSONUtilities.Activities": "[0.5.5]",
+    "UiPathTeam.SharePoint.Activities": "[1.7.0]",
+    "UiPathTeam.StatusProgress.Activities": "[1.0.2]",
+    "UiPathTeam.StringOperations.Activities": "[1.0.0]",
+    "UiPathTeam.XLExcel.Activities": "[1.0.6814.30102]",
+    "Xebia.Datatable.Activities": "[1.0.0]",
+    "Xebia.DatatableActivities.Activities": "[1.0.1]",
+    "Xebia.RemoveEmptyRowsFromDataTable.Activities": "[1.0.1]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "21.10.4.0",
+  "projectVersion": "1.0.2",
+  "runtimeOptions": {
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "modernBehavior": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "6e607758-40ab-41d9-8d58-b122f5d2c62f",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Legacy"
+}
